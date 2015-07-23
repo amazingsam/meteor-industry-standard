@@ -35,6 +35,10 @@ Workarounds, connectors, adapters and limitations within the scope of applicatio
 
 Security threads, policies and prevention strategies around Meteor and Meteor components.
 
+### Installers
+
+Installers are single scripts to download and install stacks for setting up Meteor quickly.
+
 ### OS-Specific
 
 Best practices targeted at a specific platform for Meteor development and server deployment.
