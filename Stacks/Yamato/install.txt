@@ -1,0 +1,8 @@
+Description:
+
+Stack Contents:
+Meteor, Iron-Router, Blaze, CoffeeScript, Stylus, Cucumber, Basic
+Advantages:
+
+
+Installation:

@@ -1,0 +1,8 @@
+Description:
+
+Stack Contents:
+Meteor, Flow-Router, Blaze, JavaScript ES6, Sass, Cucumber, Basic
+Advantages:
+
+
+Installation:

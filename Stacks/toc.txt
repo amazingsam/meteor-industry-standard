@@ -8,8 +8,24 @@ Stacks are described through a simple ordering convention:
 
 meteor, router, template engine, language, css, testing framework, toolchain
 
+# Why create naming for different Stacks?
+Technical issues are often high priority - there is little room for error. Using
+names for Stacks allows them to remain human-friendly and a practice or solution can
+be tagged by these names; allowing engineers to find solutions that are tested - or
+after experimenting provide detailed feedback without disclosing information that
+could harm their business. For polls and popularity research, this data can become
+very valuable to provide metrics and industrial adoption.
+
 These are listed as following:
 
-* Springwater - * meteor, flow, blaze, coffeescript, stylus, cucumber, basic *
+* Springwater - * Meteor, Flow-Router, Blaze, CoffeeScript, Stylus, Cucumber, Basic *
+* Brenham - * Meteor, Flow-Router, Blaze, JavaScript ES6, CSS, Cucumber, Basic *
+* Andura - * Meteor, Flow-Router, Blaze, JavaScript ES6, Sass, Cucumber, Basic *
+* Treysa - * Meteor, Flow-Router, Blaze, JavaScript ES6, Less, Cucumber, Basic *
+* Yamato - * Meteor, Iron-Router, Blaze, CoffeeScript, Stylus, Cucumber, Basic *
+* Loreto - * Meteor, Iron-Router, Blaze, JavaScript ES6, CSS, Cucumber, Basic *
+* Gibeon - * Meteor, Iron-Router, Blaze, JavaScript ES6, Sass, Cucumber, Basic *
+* Allende - * Meteor, Iron-Router, Blaze, JavaScript ES6, Less, Cucumber, Basic *
 
-Total practices: 0
+
+Total practices: 8
