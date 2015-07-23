@@ -3,7 +3,9 @@ An industry standard for Meteor. After a discussion on the Meteor Forum, a need 
 
 These are categorized as following:
 * Stacks
-  Divided in proven stacks to determine which stack to use to achieve certain business requirements.
+
+Divided in proven stacks to determine which stack to use to achieve certain business requirements.
+
 * Structure
 * Testing
 * Tools
