@@ -7,7 +7,7 @@ These are categorized as following:
 
 Divided in proven stacks to determine which stack to use to achieve certain business requirements.
 
-  - [**Springwater**]
+  - [**Springwater**](https://github.com/amazingsam/meteor-industry-standard/blob/master/Stacks/Springwater/install.md)
   *Meteor, Flow-Router, Blaze, CoffeeScript, Stylus, Cucumber, Base*
 
 
@@ -15,7 +15,7 @@ Divided in proven stacks to determine which stack to use to achieve certain busi
 
 Divided in often-used structures to provide a project boilerplate for collaborative development.
 
-  - [**Structure-sm**]
+  - [**Structure-sm**](https://github.com/amazingsam/meteor-industry-standard/blob/master/Structure/structure-sm/structure-sm.md)
   *A small project structure.*
 
 
