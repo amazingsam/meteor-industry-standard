@@ -1,5 +1,5 @@
 # meteor-industry-standard
-An industry standard for Meteor. After a discussion on the Meteor Forum, a need to create best practices that are used for industry solutions. The missing manuals, best practices, resources and configurations that are beyond Hello World.
+An industry standard for Meteor. After a discussion on the Meteor Forum, a need to create best practices that are used for industry solutions. The missing manuals, best practices, resources and configurations that are beyond Hello World. This is not an official Meteor supported resource. 
 
 These are categorized as following:
 
