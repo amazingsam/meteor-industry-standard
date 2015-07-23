@@ -1,0 +1,58 @@
+# Structure Small - structure-sm
+
+Version 0.0.1
+A small project structure.
+
+PROJECT_ROOT
+
+/app
+  /lib
+    |- collections
+    |- controllers
+    |- routes.js
+    |- methods.js
+    |- tests
+
+  /client
+    |- collections
+    |- lib
+    |- styles
+    |- templates
+    |- tests
+
+  /server
+    |- collections
+    |- controllers
+    |- lib
+    |- tests
+
+  /private
+
+  /public
+    |- images
+    |- icons
+    |- videos
+    |- resources
+
+  /packages
+  /bin
+  /doc
+    |- lib
+    |- server
+    |- client
+    |- notes
+
+  /features
+    /step_definitions
+
+/bin
+/build
+  |- development
+  |- staging
+  |- production
+
+/config
+
+/app-meta
+  |- deployment
+  |- description
