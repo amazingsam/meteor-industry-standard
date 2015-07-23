@@ -19,8 +19,10 @@ Meteor, Flow-Router, Blaze, CoffeeScript, Stylus, Cucumber, Base
 ```
 brew install node
 curl https://install.meteor.com/ | sh
-meteor add meteorhacks:flow-router coffeescript mquandalle:stylus
 npm install -g cucumber
+# inside your project directory
+meteor create *appname*
+meteor add meteorhacks:flow-router coffeescript mquandalle:stylus
 ```
 
 ##Installation Client Linux
