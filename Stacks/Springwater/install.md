@@ -11,4 +11,28 @@ Meteor, Flow-Router, Blaze, CoffeeScript, Stylus, Cucumber, Base
 * Easy for natural language oriented developers (Ruby, Python)
 * Cucumber testing practices and automation
 
-##Installation:
+##Security Notes
+
+
+##Installation Client OSX  
+
+```brew install node
+curl https://install.meteor.com/ | sh
+meteor add meteorhacks:flow-router coffeescript mquandalle:stylus
+npm install -g cucumber```
+
+##Installation Client Linux
+
+*TODO*
+
+##Installation Client Windows
+
+*TODO*
+
+##Installation Server Linux
+
+*TODO*
+
+##Installation Server Windows
+
+*TODO*
