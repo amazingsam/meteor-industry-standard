@@ -1,5 +1,5 @@
 # meteor-industry-standard
-An industry standard for Meteor. After a discussion on the Meteor Forum, a need to create best practices that are used for industry solutions. The missing manuals, best practices, resources and configurations that are beyond Hello World. This is not an official Meteor supported resource. 
+An industry standard for Meteor. After a discussion on the Meteor Forum, a need to create best practices that are used for industry solutions. The missing manuals, best practices, resources and configurations that are beyond Hello World. This is not an official Meteor supported resource.
 
 These are categorized as following:
 
@@ -25,7 +25,7 @@ Testing frameworks used in combination with Meteor.
 
 ### Tools
 
-Common used tools for software engineers and administrators.
+Common used tools for software engineers and administrators. Commandline tools, IDE, build tools, package management and debuggers.
 
 ### Performance
 
