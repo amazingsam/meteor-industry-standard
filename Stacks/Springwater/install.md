@@ -16,10 +16,12 @@ Meteor, Flow-Router, Blaze, CoffeeScript, Stylus, Cucumber, Base
 
 ##Installation Client OSX  
 
-```brew install node
+```
+brew install node
 curl https://install.meteor.com/ | sh
 meteor add meteorhacks:flow-router coffeescript mquandalle:stylus
-npm install -g cucumber```
+npm install -g cucumber
+```
 
 ##Installation Client Linux
 
