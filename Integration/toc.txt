@@ -1,0 +1,8 @@
+# Table of Contents
+Workarounds, connectors, adapters and limitations within the scope of application and/or data integration.
+
+These are listed as following:
+
+* Title of Meteor Practice - *short description of the practice *
+
+Total practices: 0

@@ -1,0 +1,8 @@
+# Table of Contents
+Divided in proven stacks to determine which stack to use to achieve certain business requirements.
+
+These are listed as following:
+
+* Title of Meteor Practice - *short description of the practice *
+
+Total practices: 0

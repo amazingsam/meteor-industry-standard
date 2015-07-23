@@ -1,0 +1,8 @@
+# Table of Contents
+Practices and management of Meteor applications inside the business infrastructure.
+
+These are listed as following:
+
+* Title of Meteor Practice - *short description of the practice *
+
+Total practices: 0
