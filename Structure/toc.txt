@@ -3,6 +3,7 @@ Divided in often-used structures to provide a project boilerplate for collaborat
 
 These are listed as following:
 
-* Title of Meteor Practice - *short description of the practice *
+* Structure-sm - *A small project structure.*
+* Title of Meteor Practice - *short description of the practice*
 
-Total practices: 0
+Total practices: 1
