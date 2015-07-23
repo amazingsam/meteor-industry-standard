@@ -3,7 +3,11 @@ Divided in often-used structures to provide a project boilerplate for collaborat
 
 These are listed as following:
 
+* Structure-xs - *A mobile project structure <unfinished>*
 * Structure-sm - *A small project structure.*
-* Title of Meteor Practice - *short description of the practice*
+* Structure-md - *A medium project structure <unfinished>*
+* Structure-lg - *A large project structure <unfinished>*
+* Structure-xl - *A distributed project structure <unfinished>*
+* Structure-iron - *An Iron-oriented project structure <unfinished>*
 
 Total practices: 1

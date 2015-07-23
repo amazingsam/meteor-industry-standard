@@ -1,8 +1,15 @@
 # Table of Contents
 Divided in proven stacks to determine which stack to use to achieve certain business requirements.
 
+Stacks have an unique ID with a code name, preferred by a meteorite name.
+Such names can be found here: https://en.wikipedia.org/wiki/Category:Meteorites_by_name
+
+Stacks are described through a simple ordering convention:
+
+meteor, router, template engine, language, css, testing framework, toolchain
+
 These are listed as following:
 
-* Title of Meteor Practice - *short description of the practice *
+* Springwater - * meteor, flow, blaze, coffeescript, stylus, cucumber, basic *
 
 Total practices: 0
