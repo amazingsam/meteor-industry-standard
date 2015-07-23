@@ -7,9 +7,17 @@ These are categorized as following:
 
 Divided in proven stacks to determine which stack to use to achieve certain business requirements.
 
+  - [**Springwater**]
+  *Meteor, Flow-Router, Blaze, CoffeeScript, Stylus, Cucumber, Base*
+
+
 ### Structure
 
 Divided in often-used structures to provide a project boilerplate for collaborative development.
+
+  - [**Structure-sm**]
+  *A small project structure.*
+
 
 ### Testing
 
