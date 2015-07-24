@@ -3,6 +3,6 @@ Books, articles, videos and other resources that are must-have for Meteor softwa
 
 These are listed as following:
 
-* Title of Meteor Practice - *short description of the practice *
+* [Meteor.js: Getting Started](https://semaphoreci.com/blog/2014/11/19/meteorjs-getting-started.html)
 
-Total practices: 0
+Total practices: 1

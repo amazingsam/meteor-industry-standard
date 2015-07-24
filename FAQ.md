@@ -5,3 +5,6 @@ A: ...
 Q: Is it possible to create a package that serves to exclude a whole folder from becoming part of production builds? Could be a folder with a specific name or containing a specific config file, but the contents of which are only relevant during development.
 
 A: You can start any file or directory with dot ('.') and they won't include in the build.
+
+Q: What are common IDE's for Meteor?
+A: WebStorm is a full IDE with Meteor support

@@ -1,0 +1,8 @@
+Contents of IDE tools
+
+Atom (packages)
+  CoffeeScript
+  Meteor Helper
+  Meteor API
+
+WebStorm
