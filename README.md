@@ -51,6 +51,6 @@ Installers are single scripts to download and install stacks for setting up Mete
 
 Best practices targeted at a specific platform for Meteor development and server deployment.
 
-### References
+###[References](https://github.com/amazingsam/meteor-industry-standard/blob/master/References/toc.md)
 
 Books, articles, videos and other resources that are must-have for Meteor software engineers.
