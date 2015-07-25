@@ -1,7 +1,5 @@
 #Rate limiting vulnerabilities
 
-[Read Full Article source]
-
 **Affected Versions**
 
 Meteor < 1.2

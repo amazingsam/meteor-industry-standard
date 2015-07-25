@@ -44,7 +44,7 @@ Workarounds, connectors, adapters and limitations within the scope of applicatio
 Security threads, policies and prevention strategies around Meteor and Meteor components.
 
 - [**Rate limiting measures against DDP vulnerabilities**](https://github.com/amazingsam/meteor-industry-standard/blob/master/Security/rate-limiting-vulnerabilities.md)
-
+- [**Race Condition vulnerabilities**](https://github.com/amazingsam/meteor-industry-standard/blob/master/Security/race-condition-vulnerabilities.md)
 
 
 ### Installers
