@@ -1,8 +1,0 @@
-# Table of Contents
-Security threads, policies and prevention strategies around Meteor and Meteor components.
-
-These are listed as following:
-
-* Title of Meteor Practice - *short description of the practice *
-
-Total practices: 0

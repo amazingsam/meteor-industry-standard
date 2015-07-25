@@ -39,9 +39,13 @@ Practices and management of Meteor applications inside the business infrastructu
 
 Workarounds, connectors, adapters and limitations within the scope of application and/or data integration.
 
-### Security
+### [Security](https://github.com/amazingsam/meteor-industry-standard/blob/master/Security/toc.md)
 
 Security threads, policies and prevention strategies around Meteor and Meteor components.
+
+- [**Rate limiting measures against DDP vulnerabilities**](https://github.com/amazingsam/meteor-industry-standard/blob/master/Security/rate-limiting-vulnerabilities.md)
+
+
 
 ### Installers
 
