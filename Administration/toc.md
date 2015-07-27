@@ -3,6 +3,6 @@ Practices and management of Meteor applications inside the business infrastructu
 
 These are listed as following:
 
-* Title of Meteor Practice - *short description of the practice *
+* [Cleanup Your Project - *How to cleanup your Meteor project space] *
 
 Total practices: 0

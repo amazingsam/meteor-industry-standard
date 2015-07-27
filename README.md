@@ -31,9 +31,11 @@ Common used tools for software engineers and administrators. Commandline tools, 
 
 Configuration and environment tweaks to improve specific and overall performance of Meteor.
 
-### Administration
+### [Administration](https://github.com/amazingsam/meteor-industry-standard/blob/master/Administration/toc.md)
 
 Practices and management of Meteor applications inside the business infrastructure.
+
+- [**Clean up Your Meteor Project**](https://github.com/amazingsam/meteor-industry-standard/blob/master/Administration/clean-up-your-meteor-project.md)
 
 ### Integration
 
